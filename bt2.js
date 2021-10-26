@@ -7,6 +7,5 @@ for(let i = 0; i < x_list.length; i++)
     console.log(word);
 }
 
-console.log(ans);
 
 
